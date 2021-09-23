@@ -1,0 +1,21 @@
+
+@media (max-width: 1024px) {
+    .hero{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    }
+.title{
+    
+    text-align: center;
+    color: rgb(153, 62, 172);
+    font-size: 500%
+}
+.subtitle{
+    /* position: relative;
+    top: 100px; */
+    text-align: center;
+    color: rgb(153, 62, 172);
+    font-size: 200%
+}
