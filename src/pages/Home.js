@@ -1,7 +1,7 @@
 import React from 'react';
 import './Home.css'
 import Navigation from '../components/nav/index.js'
-import { Row, } from 'react-bootstrap';
+import { Row } from 'react-bootstrap';
 
 const Home = () =>{
 
@@ -10,6 +10,14 @@ const Home = () =>{
         <>
         
         <section>
+            <br/>
+            <br/>
+            <br/>
+            <br/>
+            <br/>
+            <br/>
+            <br/>
+
             <div className="heading">
                 <Row>
                     <br/>
@@ -17,16 +25,14 @@ const Home = () =>{
                     <br/>
                     <br/>
                     <h1 className="title">
-                        Aura Holix 
+                        AuraHolix 
                         
                     </h1>
                     <h2 className="subtitle">
                         The Wellness Addicts 
                     </h2>
                 </Row>
-                <Row>
-                    
-                </Row>
+                
             </div>
                 
                 
