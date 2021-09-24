@@ -17,7 +17,7 @@ const About = () => {
                 </Col>
                 <Col xs={6}>
                     <div>
-                        Placeholder
+                        Placeholder for Image
                     </div>
                 </Col>
                 </Row>
