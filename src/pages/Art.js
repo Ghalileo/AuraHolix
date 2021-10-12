@@ -14,7 +14,7 @@ const Art = () => {
             <br/>
             <br/>
             <br/>
-            <h2 style={{textAlign:"center"}}>ART ADDICT</h2>
+            <h2 style={{textAlign:"center"}}>ART ADDICT!</h2>
             <Container style={{position: "relative", left:"50px"}}>
                 <Row>
                     <Col>
@@ -23,6 +23,7 @@ const Art = () => {
                             style={{ width: 240 }}
                             cover={<img alt="example" src={orgoniteone} />}
                             >
+                                 <br/>
                         <h5>Orgonite Pyramids</h5>
                         <p>"Orgone", is the life energy found everwhere.  These custom pyramids are not only beautiful but they can also transform negative, harmful energy into postive, productive energy.</p>
                         </Card>
@@ -49,6 +50,7 @@ const Art = () => {
                             style={{ width: 240 }}
                             cover={<img alt="example" src={zodiacs} />}
                             >
+                                 <br/>
                         <h5>Zodiac NoteBooks</h5>
                         <p>Customized Zodiac journals make the perfect gift for evert one - from Aries to Pisces.</p>
                         </Card>
