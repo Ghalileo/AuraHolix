@@ -1,9 +1,9 @@
 import React from 'react';
 import {Row, Col, Container} from 'react-bootstrap';
 import {Card} from 'antd';
-import orgoniteone from '../assets/orgonitesingle.jpg'
-import mic from '../assets/mic.jpg'
-import zodiacs from '../assets/zodiacs.jpg'
+import orgonitecat from '../assets/catorgonite.jpg'
+import healingcrystals from '../assets/healingcrystals.jpg'
+import musicphoto from '../assets/musicphoto.jpg'
 const { Meta } = Card;
 
 const Art = () => {
@@ -21,7 +21,7 @@ const Art = () => {
                         <Card
                             hoverable
                             style={{ width: 240 }}
-                            cover={<img alt="example" src={orgoniteone} />}
+                            cover={<img alt="example" src={orgonitecat} />}
                             >
                                  <br/>
                         <h5>Orgonite Pyramids</h5>
@@ -32,7 +32,7 @@ const Art = () => {
                         <Card
                             hoverable
                             style={{ width: 240 }}
-                            cover={<img alt="example" src={mic} />}
+                            cover={<img alt="example" src={musicphoto} />}
                             >
                                 <br/>
                         <h5>Music</h5>
@@ -48,7 +48,7 @@ const Art = () => {
                         <Card
                             hoverable
                             style={{ width: 240 }}
-                            cover={<img alt="example" src={zodiacs} />}
+                            cover={<img alt="example" src={healingcrystals} />}
                             >
                                  <br/>
                         <h5>Zodiac NoteBooks</h5>
