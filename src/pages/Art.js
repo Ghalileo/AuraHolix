@@ -35,7 +35,7 @@ const Art = () => {
                             cover={<img alt="example" src={musicphoto} />}
                             >
                                 <br/>
-                        <h5>Music</h5>
+                        <h5>Music!</h5>
                         <ul style={{position: "relative", right:"15px"}}>
                             <li>Spotify</li>
                             <li>Pandora</li>
