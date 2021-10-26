@@ -23,7 +23,7 @@ const Art = () => {
                             style={{ width: 240 }}
                             cover={<img alt="example" src={orgonitecat} />}
                             >
-                                 <br/>
+                                 
                         <h5>Orgonite Pyramids</h5>
                         <p>"Orgone", is the life energy found everwhere.  These custom pyramids are not only beautiful but they can also transform negative, harmful energy into postive, productive energy.</p>
                         </Card>

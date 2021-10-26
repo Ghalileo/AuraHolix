@@ -23,6 +23,8 @@ const Addict = () => {
                             >
                         <h5>For Every Human Foundation</h5>
                         <p>Human rights matter todday more than ever.  Learn more about human rights and how you can help.</p>
+                        <br/>
+                        
                         </Card>
                     </Col>
                     <Col>
@@ -33,6 +35,7 @@ const Addict = () => {
                             >
                         <h5>Pretty Cool Person™</h5>
                         <p>Look trendy while contributing to a great cause.  High quality tees, sweaters, and totes with a portion of proceeds going to your charity of choice.</p>
+                        <br/>
                         </Card>
                     </Col>
                     <Col>
