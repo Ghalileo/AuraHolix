@@ -36,7 +36,7 @@ const Art = () => {
                             >
                                 <br/>
                         <h5>Music!</h5>
-                        <ul style={{position: "relative", right:"15px"}}>
+                        <ul style={{position: "relative", right:"154x"}}>
                             <li>Spotify</li>
                             <li>Pandora</li>
                             <li>Youtube</li>
