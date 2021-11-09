@@ -52,7 +52,7 @@ const Art = () => {
                             >
                                  <br/>
                         <h5>Zodiac NoteBooks</h5>
-                        <p>Customized Zodiac journals make the perfect gift for evert one - from Aries to Pisces.</p>
+                        <p>Customized Zodiac journals make the perfect gift for every one - from Aries to Pisces.</p>
                         </Card>
                     </Col>
                 </Row>   
